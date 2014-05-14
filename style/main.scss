@@ -414,8 +414,8 @@ hr {
   transition-property: transform;
 
   $base: 10;
-  $exponent: 1;
-  $limit: 50;
+  $exponent: 10;
+  $limit: 500;
 
   // Colors for all 11 states, false = no special color
   $special-colors: false false, // 2
